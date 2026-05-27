@@ -32,7 +32,7 @@ Beberapa skrip memerlukan alat atau lingkungan tertentu untuk berfungsi dengan b
 
 1. **Clone repositori:**
     ```bash
-    git clone [https://github.com/username-anda/sysutils.git](https://github.com/username-anda/sysutils.git)
+    git clone https://github.com/SkaSka0/sysutils.git
     cd sysutils
     ```
 
